@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "848743879530",
+    "firebase_url": "https://usariopoker.firebaseio.com",
+    "project_id": "usariopoker",
+    "storage_bucket": "usariopoker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848743879530:android:ba6089d83a100387",
+        "android_client_info": {
+          "package_name": "com.example.cesaraugusto.poker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848743879530-hhkd9k0pldb5cdh6c9erl1retclllb8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cesaraugusto.poker",
+            "certificate_hash": "393edf373920e391737a8e6456f99e8f5eb1b83b"
+          }
+        },
+        {
+          "client_id": "848743879530-tvdmaj91jt07at6qk81k9ocsq6erdu74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYZ1qLc_AiltuBJjNtd_AqFVUQpkEWxFI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848743879530-tvdmaj91jt07at6qk81k9ocsq6erdu74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

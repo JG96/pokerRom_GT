@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "usariopoker",
+  "private_key_id": "6dda90b22347cfef23be1777cc4d3865af8f4bb0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCapK12UeoIuYkM\nehCVGpntlUp7HmBcaHuO8NTDU1gVVK0hnwwWp78COXcmJoHm6KxjUMlGpLvoeQSV\nUAcnPn/jP7cxGt/aJNPpNWLe+VqELUNxf3IYrqva+QshJzohHYOXFRcWNjp0i8Zi\nDahqURrSuD97iEbsPidmuaqyVpjCOo9K9hN8kJVgt1kSgVA8ofqcsuigHWmnFyrP\nTz3ojZjCOAoJxMUVrOOn0t+mYCiOJJZvVqjjwyJsbMOyoZgud+BKzZmzDfkerPFH\n+quvrqSTAZPikemgLZUsujKyg0GVOqa1Y3VPazUTqmhzli/pxmLCdZkk8m/bm0RL\nG34gRf63AgMBAAECggEACuo1UBTyBtGe9GF9NXjzhQsKKcHNcq2b4vfpRywPxdmn\nKqirgBcw6nrx3PXPf2PMHxUUT8cleCq/1xDB9dQkef6vnb3+2h/KppAyZ/iDmgaz\n1u6e4qfEJigjz/WRKxsxLthkkRhyFx3Hz83qUC6595uHkjQz2qLRwcoNsUQJc36g\nggp2PCdroyZbvrWGBGtlfZpwfs7e5kJg6kqnDegsTkntroPztyKLkxI65EyAwEGh\n3IEOY4jaQGDd9U9GjqCSx+3wObYopkRtxBr5Yne0lcG2HdMQC8wWjGxAG7RFeCbn\nWANf9iZZnLKFgQWUcPd/gJc9lEk7GEE/7U2TCvJF8QKBgQDP0eEKdHG4/y7E6LM5\nb16BWbGOVPLaY2mlFTTPU2I/XVR3Qi9MJOVrN+6buV0gnDdjMZ3VjfmInzkNSEE5\nHlalCZgWkV2W5aXSKzaHEfsdmDdhGw5BKtQwX0fSxesK3avaumvzIMaVBpFYYUgq\nuBayV2ayMNUHxeXsKyopfvmw+QKBgQC+fsQIwgBJNbhiAAGEqVwWh3gKU8LYCKEn\nFvAhZy9SeBSEWOravvSqSSmAf1+LQFOwh+xuD5lHh7PeguFwgGVWKSG6ReF4wsXs\n2XbuK6ulq23yrjZjLR5g6y1jMSTeWNzze04kCFQFguqjEgFFMjTITZx/fNeKy4wy\nEsL9MhPJLwKBgANQUGtPQgT2JLPFFh6DVRlw6bDgT+MFlMiqFuZ7aOSjw1YHeyOW\nrwXPpYFcKkz70LJHN0IRenogN9OrZEbZ4f3Nslwhw0FFtigswjjTI5LsO23T9Z06\nZpnC2y1UNJQ+xp+9Oz1sN15m9WhYXMM5njsHw75xouP11t22Lnzs5mRZAoGAHwmc\neyjQzxzXm/AQT0Mg4/LSliwrlPNi/nF4UpjzVuaFwUKTkWyHhK9C+dLHCHNEr4CV\n/yC/gq4Tmm+Mt73TxQQSoLz+DaT+hqawAAJRhz61PVMxPVt+lZ/71yuMrEWiSnGO\nu8Q3nGZGQKeQWWviubgbhZIbtFuRzh7McmCUZLUCgYEApgFzctON8zbsrRH1ErX+\nzBTu1+jYOCxWpdkxRhtGwQtmrmFtYuoSR+TEJldJ46/riccArQj5udh5RH3A1hMt\nUvhajj7OsAfqpQTh8qLxbd082AOL9J/kCuJH9AuTM/ZbUcr+WPJh6t0Gu0Qagys1\nuhzwqFGU7dcInhvzO5ZUWbQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "esan-12@usariopoker.iam.gserviceaccount.com",
+  "client_id": "106645742523205723639",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/esan-12%40usariopoker.iam.gserviceaccount.com"
+}
